@@ -1,4 +1,4 @@
-# Person Detection and Tracking in Dynamic ROI using Yolov8
+# P&ID Diagram Analysis
 ### Overiew
 Yolo or You look only once is a real-time object detection system in **Computer Vision**. It's a deep learning algorithm that can **detect** and identify **multiple** objects in an image or video stream.
 Our main aim of this project is to provide users an application to detect and analyse *P&ID Diagrams* in images, videos or real-time.
