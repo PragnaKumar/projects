@@ -1,0 +1,18 @@
+[browser]
+gatherUsageStats = false
+
+# [client]
+# caching = true
+# toolbarMode = 'minimal'
+# showErrorDetails = false
+
+[server]
+# enableStaticServing = false
+port = 8503
+sslCertFile = './.streamlit/certificate.pem'
+sslKeyFile =  './.streamlit/key.pem'
+
+
+# sudo openssl req -x509 -nodes -days 365 -newkey rsa:4096 -keyout /home/ubuntu/Downloads/streamlit_Project/.streamlit/nginx-selfsigned.key -out /home/ubuntu/Downloads/streamlit_Project/.streamlit/nginx-selfsigned.crt
+# sudo openssl dhparam -out /home/ubuntu/Downloads/streamlit_Project/.streamlit/dhparam.pem 4096
+# --server.fileWatcherType none
