@@ -1,4 +1,4 @@
-# Person Detection and Tracking in Dynamic ROI using Yolov8
+# Steel Bar Analysis
 ### Overiew
 Yolo or You look only once is a real-time object detection system in **Computer Vision**. It's a deep learning algorithm that can **detect** and identify **multiple** objects in an image or video stream.
 Our main aim of this project is to provide users an application to detect and segment *steel* or *iron* rods in videos or real-time.
