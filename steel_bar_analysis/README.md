@@ -40,4 +40,5 @@ While this application is still in development stage, it can be used for various
 ### Results
 
 ![](result.jpg)
+
 *This is detected image obtained after training the model.*
