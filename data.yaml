@@ -1,0 +1,6 @@
+train: C:\Users\rrk\OneDrive\Desktop\sem-end-projects\Intelligent-Analytics\pneumonia-yolo\train\images
+val: C:\Users\rrk\OneDrive\Desktop\sem-end-projects\Intelligent-Analytics\pneumonia-yolo\train\images
+test: C:\Users\rrk\OneDrive\Desktop\sem-end-projects\Intelligent-Analytics\pneumonia-yolo\test\images  
+
+nc: 2
+names: ['normal', 'pneumonia']
