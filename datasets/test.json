@@ -1,0 +1,26 @@
+[
+    {
+      "query": "What is fine-tuning in machine learning?",
+      "answer": "Fine-tuning is the process of taking a pre-trained model and continuing training on a smaller, task-specific dataset to adapt it to a new use case."
+    },
+    {
+      "query": "Explain in-context learning with an example.",
+      "answer": "In-context learning allows a language model to follow patterns shown in the prompt. For example, if you give it a few examples of translations, it will infer the pattern and translate a new word — without updating its internal weights."
+    },
+    {
+        "query": "When should I use fine-tuning over in-context learning?",
+        "answer": "Use fine-tuning when you need consistent, long-term task performance and have training data. Use in-context learning for lightweight, flexible experimentation or when training isn't feasible."
+    },
+    {
+        "query": "Give a real-world analogy for fine-tuning vs in-context learning.", 
+        "answer": "Fine-tuning is like going to school and learning a skill permanently. In-context learning is like being shown a few examples before a test \u2014 you get the pattern, but forget it afterward."
+
+    },
+    {
+        "query": "How does fine-tuning differ from in-context learning?", 
+        "answer": "Fine-tuning changes the model\u2019s weights and memory permanently, making it better at a task across all future prompts. In-context learning is temporary and prompt-specific, relying on examples given in that prompt."
+
+    }
+
+  ]
+  

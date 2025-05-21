@@ -1,0 +1,20 @@
+numpy
+streamlit-extras
+python==3.12.4
+transformers>=4.39.3
+peft>=0.10.0
+datasets>=2.18.0
+streamlit>=1.32.2
+scikit-learn>=1.4.1
+rouge-score>=0.1.2
+sentencepiece>=0.1.99
+protobuf>=4.25.3
+torch>=2.2.2
+
+# Optional and potentially version-sensitive:
+# bitsandbytes is likely incompatible with Python 3.12 as of now
+# Uncomment only if you're using a compatible version/environment (e.g. Python 3.10 or 3.11)
+
+# bitsandbytes==0.42.0
+
+# Ollama is not pip-installable; install separately from https://ollama.com

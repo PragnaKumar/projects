@@ -1,0 +1,25 @@
+[
+    {
+        "context": "Fine-tuning is being applied to adapt a pre-trained machine learning model to a domain-specific dataset that differs from the model’s original training data. This dataset contains examples that reflect the language, style, and content relevant to the target application. The goal is to refine the model’s understanding and output generation to better align with the tasks and nuances present in this dataset. This process involves supervised training on labeled examples to help the model generalize effectively from a few high-quality samples.",
+        "query": "What is fine-tuning in machine learning?",
+        "answer": "Fine-tuning is the process of taking a pre-trained model and continuing training on a smaller, task-specific dataset to adapt it to a new use case."
+    },
+
+    {
+        "context": "In-context learning (ICL) is a specific method of prompt engineering where demonstrations of the task are provided to the model as part of the prompt (in natural language). With ICL, you can use off-the-shelf large language models (LLMs) to solve novel tasks without the need for fine-tuning. ICL can also be combined with fine-tuning for more powerful LLMs.",
+        "query": "Explain in-context learning with an example.",
+        "answer": "In-context learning allows a language model to follow patterns shown in the prompt. For example, if you give it a few examples of translations, it will infer the pattern and translate a new word \u2014 without updating its internal weights."
+    },
+
+    {
+        "context": "Fine-tuning and in-context learning are two ways to adapt a language model to a new task. Fine-tuning updates the model’s weights using a labeled dataset, allowing it to permanently learn the task. In contrast, in-context learning doesn’t change the model’s weights—it uses a few examples provided in the prompt to guide the model’s behavior during a single session. While in-context learning is quick and flexible, fine-tuning is more powerful for tasks that require consistent, high-quality performance across many inputs.",
+        "query": "How does fine-tuning differ from in-context learning?",
+        "answer": "Fine-tuning changes the model\u2019s weights and memory permanently, making it better at a task across all future prompts. In-context learning is temporary and prompt-specific, relying on examples given in that prompt."
+    },
+
+    {
+        "context": "Fine-tuning is better when you want the model to learn from your data permanently, especially for tasks where you’ll be repeating the same kind of input often. In-context learning is more suitable when you just want to quickly show the model a few examples during inference without changing its weights.",
+        "query": "When should I use fine-tuning over in-context learning?",
+        "answer": "Use fine-tuning when you need consistent, long-term task performance and have training data. Use in-context learning for lightweight, flexible experimentation or when training isn't feasible."
+    }
+]
