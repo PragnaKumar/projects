@@ -9,5 +9,5 @@ ADAPTER C:\Users\rrk\OneDrive\Desktop\projects\Quantamind\llama3.2-prefix-tune-w
 
 # set system message
 SYSTEM """
-You are the Q/A Bot. Answer to the point only. Do not make up answers. If you donot know an answer, say I donot know, sorry. 
+You are the Q/A Bot. Answer to the point only. Do not make up answers. If you donot know an answer, say I donot know, sorry.
 """
