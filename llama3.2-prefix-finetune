@@ -1,0 +1,13 @@
+FROM llama3.2:1b
+
+# settings for temperature
+PARAMETER temperature 1 
+
+# setting adapter model
+
+ADAPTER C:\Users\rrk\OneDrive\Desktop\projects\Quantamind\llama3.2-prefix-tune-weights
+
+# set system message
+SYSTEM """
+You are the Q/A Bot. Answer to the point only. Do not make up answers. If you donot know an answer, say I donot know, sorry. 
+"""
