@@ -1,0 +1,60 @@
+{"instruction": "What does the Weighted average actuarial assumptions consist of?", "output": "['Rate of inflation', 'Rate of increase in salaries', 'Discount rate']"}
+{"instruction": "How much is the 2019 rate of inflation?", "output": "['2.9']"}
+{"instruction": "How much is the 2018 rate of inflation?", "output": "['2.9']"}
+{"instruction": "What is the 2019 average rate of inflation?", "output": "2.9"}
+{"instruction": "What is the 2019 average rate of increase in salaries?", "output": "2.7"}
+{"instruction": "What is the difference between 2019 average rate of inflation and 2019 average rate of increase in", "output": "0.2"}
+{"instruction": "How was internally developed software capitalised?", "output": "['at cost less accumulated amortisation.']"}
+{"instruction": "How much was the closing net book amount for software under development in 2019?", "output": "['16,284']"}
+{"instruction": "What was the total cost for 2019?", "output": "['29,259']"}
+{"instruction": "What was the percentage change in cost of software under development between 2018 and 2019?", "output": "150.18"}
+{"instruction": "Which year have greater total accumulated amortisation?", "output": "['2019']"}
+{"instruction": "What was the difference between total opening and closing net book account in 2018?", "output": "4369"}
+{"instruction": "What is net sales from cheese in 2018 and 2019 respectively?", "output": "['11,486', '11,459']"}
+{"instruction": "What is net sales from cream and other in 2018 and 2019 respectively?", "output": "['5,276', '4,228']"}
+{"instruction": "What is net sales from ProBugs Kefir in 2018 and 2019 respectively?", "output": "['2,795', '2,780']"}
+{"instruction": "How many product categories are available?", "output": "6"}
+{"instruction": "What is the change in the net sales for cheese between 2018 and 2019?", "output": "-27"}
+{"instruction": "What is the percentage change in net sales from Frozen Kefir between 2018 and 2019?", "output": "12.76"}
+{"instruction": "Why did the Operating revenues decreased from 2018 to 2019?", "output": "['primarily due to decreased other operating revenues, decreased foundry wafer sale, and 2.5%"}
+{"instruction": "Why did the Operating costs decreased from 2018 to 2019?", "output": "['primarily due to the decreased depreciation expense and other operating costs, which was partially"}
+{"instruction": "Why did the gross margin decreased from 2018 to 2019?", "output": "['primarily due to an annual decline of 2.9% in average selling price.']"}
+{"instruction": "What is the average of Gross profit?", "output": "15.87"}
+{"instruction": "What is the average Operating expenses?", "output": "14.7"}
+{"instruction": "What is the average Operating income?", "output": "3.83"}
+{"instruction": "What led to increase in the revenue of ADG on sequential basis?", "output": "['driven by an increase in volumes of approximately 8%, partially offset by a decrease in average"}
+{"instruction": "What led to increase in the revenue of AMS on sequential basis?", "output": "['driven by Analog and Imaging products. AMS increase was due to an increase of approximately 5%"}
+{"instruction": "What led to increase in the revenue of MDG on sequential basis?", "output": "['driven by Microcontrollers, due to both higher average selling prices of approximately 6%, entirely"}
+{"instruction": "What is the average net revenues from Automotive and Discrete Group (ADG) for the period", "output": "945.5"}
+{"instruction": "What is the average net revenues from Analog, MEMS and Sensors Group (AMS) for the period", "output": "1036.5"}
+{"instruction": "What is the average net revenues from Microcontrollers and Digital ICs Group (MDG) for the period", "output": "715.5"}
+{"instruction": "How were inventories valued at the lower of cost and net realizable value?", "output": "['using the first-in, first-out method.']"}
+{"instruction": "Which years does the table provide information for the components of inventories?", "output": "['2019', '2018']"}
+{"instruction": "What was the amount of raw materials in 2018?", "output": "['26.0']"}
+{"instruction": "What was the change in raw materials between 2018 and 2019?", "output": "48.5"}
+{"instruction": "How many years did the amount of Finished goods exceed $200 million?", "output": "1"}
+{"instruction": "What was the percentage change in total inventories between 2018 and 2019?", "output": "49.45"}
+{"instruction": "How will the trend rates for Canadian post-retirement plans change between the current period to", "output": "['Increase linearly to 4.75%', 'grading down to an ultimate rate of 3.57% per annum in 2040 and"}
+{"instruction": "What are the respective pension discount rates for actuarial benefit obligation in 2019 and 2018", "output": "['3.20%', '3.80%']"}
+{"instruction": "What are the respective pension discount rates for benefit costs in 2019 and 2018 respectively?", "output": "['3.90%', '3.60%']"}
+{"instruction": "What is the total pension discount rate for actuarial benefit obligation for 2018 and 2019?", "output": "7"}
+{"instruction": "What is the percentage change in the pension discount rate for actuarial benefit obligations between", "output": "-0.6"}
+{"instruction": "What is the difference in future salary growth assumed under pension 2018 and 2019?", "output": "0"}
+{"instruction": "How many common shares did BCE repurchase in 2018?", "output": "['3,085,697']"}
+{"instruction": "What is the amount of stated capital outstanding on December 31, 2019", "output": "['20,363']"}
+{"instruction": "What comprised of the total cost that went into the repurchase of common shares in 2018?", "output": "['Stated capital', 'reduction of the contributed surplus attributable to these common shares', 'charged"}
+{"instruction": "What is the percentage of the value charged to the deficit expressed as a percentage of total cost of", "output": "58.86"}
+{"instruction": "What was the total number of shares issued under ESP and DSP in 2019?", "output": "1248208"}
+{"instruction": "What is the percentage change in the total number of shares in 2019?", "output": "-0.31"}
+{"instruction": "How many legacy systems were replaced by implementing the new customer management system?", "output": "['22']"}
+{"instruction": "What were the net additions of the internet customers in 2019?", "output": "['5,966']"}
+{"instruction": "What was the net loss for video customers in 2019?", "output": "['39,185']"}
+{"instruction": "What was the increase / (decrease) in the net additions of Primary service units in 2019 from 2018?", "output": "-703"}
+{"instruction": "What was the average increase / (decrease) in the internet service customers between 2018 and", "output": "10069.5"}
+{"instruction": "What was the average increase / (decrease) in video service customers between 2018 and 2019?", "output": "-38110"}
+{"instruction": "Which financial years' information is shown in the table?", "output": "['2017', '2018', '2019']"}
+{"instruction": "What does the table explain?", "output": "['the differences between the expected tax expense, being the aggregate of the Group\u2019s"}
+{"instruction": "How much is the 2018 aggregated expected income expense ?", "output": "['985']"}
+{"instruction": "What is the 2018 deferred tax on overseas earnings, excluding the 15\u20acm charge relating to the", "output": "9"}
+{"instruction": "What is the 2017 deferred tax on overseas earnings, excluding the 95\u20acm charge relating to the", "output": "-69"}
+{"instruction": "What is the change between 2017-2018 and 2018-2019 average income tax expense?", "output": "-1634"}
