@@ -5,6 +5,6 @@ Have a look at it and let us know what improvements can be done or just feel fre
 Thank you!
 
 ### Contents of repository
-- *Pneumonia Detection System - As a part of Intelligent Analytics course. Collaborators - Sundari Sistla, Mihir Parekh, Sohail Siddiqui*
-- *Fine-tuning v/s In-Context Learning: A comparative analysis on 3 different models based on Q/A NLP Task. Collaborators - Mihir Parekh, Arun Thangalapam*
+- *[Pneumonia Detection System](https://github.com/PragnaKumar/course-projects/tree/pneumonia-detection) - As a part of Intelligent Analytics course. Collaborators - Sundari Sistla, Mihir Parekh, Sohail Siddiqui*
+- *[Fine-tuning v/s In-Context Learning](https://github.com/PragnaKumar/course-projects/tree/icl-vs-ft): A comparative analysis on 3 different models based on Q/A NLP Task. Collaborators - Mihir Parekh, Arun Thangalapam*
 - *AI Powered Research Assistant* 
